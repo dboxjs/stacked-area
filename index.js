@@ -25,8 +25,6 @@ StackedArea.prototype = stackedArea.prototype = {
     q.await(function(error,data){
       if (error) throw error;
 
-      //console.log(error,data);
-
       vm.setData(data);
       vm.drawData();
     })
