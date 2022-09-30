@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/dboxjs/stacked-area#readme",
   "dependencies": {
-    "d3": "^4.13.0"
+    "d3": "^7.6.1"
   },
   "devDependencies": {}
 }
